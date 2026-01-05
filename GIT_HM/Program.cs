@@ -11,3 +11,7 @@ Console.WriteLine("Девятий коміт (Розробник 1)");
 Console.WriteLine("Десятий коміт (Розробник 1)");
 
 Console.WriteLine("новий коміт (Розробник 2)");
+
+Console.WriteLine("новий коміт (Розробник 3)");
+
+Console.WriteLine("новий коміт (Розробник 4)");
